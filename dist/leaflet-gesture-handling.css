@@ -41,7 +41,9 @@
           animation: leaflet-gestures-fadein 0.8s forwards; }
 
 .leaflet-gesture-handling-touch-warning:after {
+  text-align: center;
   content: attr(data-gesture-handling-touch-content); }
 
 .leaflet-gesture-handling-scroll-warning:after {
+  text-align: center;
   content: attr(data-gesture-handling-scroll-content); }
